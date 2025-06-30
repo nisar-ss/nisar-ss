@@ -1,24 +1,29 @@
 ##  Hi, I'm Nisar
 
 🎓 A Software Engineering graduate  
-📊 Enthusiastic about **Data Science** and **Software Development**  
+📊 Enthusiastic about **<span style="color:#d63384">Data Science</span>** and **<span style="color:#20c997">Software Development</span>**
 
-## 💼 Experience
+<details>
+<summary>💼 <strong>Experience</strong></summary>
 
-### 👨‍💻 Consultant – Cloud Datasoft *(Oct 2024 – Present)*
+### 👨‍💻 Consultant – Cloud Datasoft *(Oct 2024 – Present)*  
 🧑‍🏫 Conducting Adobe education workshops, webinars & training programs  
 📝 Managing reports, documentation, and training logistics (online & offline)  
 🧰 Coordinating training material prep & technical setup  
 
-### 📊 Equity Analyst – Finlatics *(Jan 2023 – Mar 2023)*
+### 📊 Equity Analyst – Finlatics *(Jan 2023 – Mar 2023)*  
 🔍 Performed detailed equity research with financial & technical analysis  
 📈 Generated investment insights with structured reports & recommendations  
 👥 Participated in peer reviews and mentor feedback sessions  
 
-### 📂 Data Intern – Highway Delite *(Aug 2022 – Nov 2022)*
+### 📂 Data Intern – Highway Delite *(Aug 2022 – Nov 2022)*  
 📋 Compiled and verified data from web & internal sources  
 📊 Maintained Google Sheets/Excel datasets for quality reporting  
 🔒 Ensured data integrity and confidentiality in processing activities  
+
+</details>
+
+---
 
 ## 💻 Tech Stack
 
@@ -48,38 +53,43 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📁 Projects
+---
 
-### 📦 Tata Sales Insights
+<details>
+<summary>📁 <strong>Projects</strong></summary>
+
+### 📦 Tata Sales Insights  
 📊 Built a dashboard using Tableau for business scenario framing and insight communication  
 🎯 Focused on visual storytelling, KPIs, and strategic analysis
 
-### 🧮 KPMG Data Analysis & Visualization with Tableau
+### 🧮 KPMG Data Analysis & Visualization with Tableau  
 🗂️ Cleaned and modeled data for executive-level dashboards  
 📈 Presented insights through effective visual storytelling  
 
-### 💼 Accenture Data Analytics Virtual Experience
+### 💼 Accenture Data Analytics Virtual Experience  
 📋 Delivered insights using Tableau after cleaning and transforming raw datasets  
 🗣️ Created presentations simulating a real-world client-facing experience  
 
-### 📉 Asset Management Simulation – JPMorgan
+### 📉 Asset Management Simulation – JPMorgan  
 🧑‍💼 Designed portfolios based on unique investor profiles  
-  📊 Calculated KPIs and provided strategic financial recommendations  
+📊 Calculated KPIs and provided strategic financial recommendations  
 
-### 🐶 Dognition Data Insights
+### 🐶 Dognition Data Insights  
 🧹 Cleaned, aggregated, and visualized behavioral data using Excel and Tableau  
-  📚 Presented insights as a Tableau story for stakeholders  
+📚 Presented insights as a Tableau story for stakeholders  
 
+</details>
+
+---
 
 ### 📫 Reach Me:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisar-shaikh7/) <br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisar-shaikh7/)  
 📧 shaikhnisar107@gmail.com  
-🌐 [Portfolio Website](https://nisar-ss.github.io/index.html) 
+🌐 [Portfolio Website](https://nisar-ss.github.io/index.html)
 
+---
 
-### 📈 GitHub Stats:
+### 📈 GitHub Stats
+
 ![Nisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisar-ss&show_icons=true&theme=tokyonight)
-
-![Profile views](https://komarev.com/ghpvc/?username=nisar-ss&color=blue)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisar-shaikh7/)](https://www.linkedin.com/in/nisar-shaikh7/)
-[![GitHub](https://img.shields.io/github/followers/nisar-ss?label=follow&style=social)](https://github.com/nisar-ss)
