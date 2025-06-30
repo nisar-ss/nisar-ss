@@ -4,6 +4,8 @@
 📊 Enthusiastic about **<span style="color:#d63384">Data Science</span>** and **<span style="color:#20c997">Software Development</span>**
 
 <details>
+  
+<details>
 <summary>💼 <strong>Experience</strong></summary>
 
 ### 👨‍💻 Consultant – Cloud Datasoft *(Oct 2024 – Present)*  
@@ -95,3 +97,5 @@
 ### 📈 GitHub Stats
 
 ![Nisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisar-ss&show_icons=true&theme=tokyonight)
+
+</details>
