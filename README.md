@@ -4,7 +4,7 @@
 📊 Enthusiastic about **Data Science** and **Software Development**  
 
 <details>
-    <summary><strong>🔧 <span style="color:#007acc;">Click to Expand</span> </strong></summary>
+    <summary><strong>🔧 <span href="" style="color:#007acc;">Click to know more</span> </strong></summary>
   
 ## 💼 Experience
 
