@@ -133,34 +133,6 @@ My work focuses on:
 
 ---
 
-## What I'm Currently Learning
-
-| Technology | Focus Area | Status |
-|---|---|---|
-| **Azure Data Factory** | Pipeline orchestration and data movement on Azure | Learning |
-| **Azure Databricks** | PySpark and Spark SQL on managed Spark clusters | Learning |
-| **Delta Lake** | ACID transactions and time travel for data lakes | Learning |
-| **Snowflake** | Cloud data warehousing and elastic compute | Learning |
-| **dbt** | Analytics engineering and data transformation workflows | Learning |
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisar-shaikh&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisar-shaikh&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisar-shaikh&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisar-shaikh)
