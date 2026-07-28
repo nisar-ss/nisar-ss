@@ -100,8 +100,6 @@ My work focuses on:
 - Reduced query p95 latency from **45s to 12s**
 - Streamlined ETL workflows and improved downstream analytics reliability
 
-**Repository:** [github.com/nisar-shaikh/data-warehouse-optimization](https://github.com/nisar-shaikh/data-warehouse-optimization) *(placeholder — link your repo)*
-
 ---
 
 ### Data Pipeline Orchestration Using Apache Airflow
@@ -118,8 +116,6 @@ My work focuses on:
 **Business Impact:**
 - Reduced pipeline failure MTTR from **4 hours to 45 minutes**
 - Improved workflow stability and operational continuity through proactive monitoring and standardized recovery runbooks
-
-**Repository:** [github.com/nisar-shaikh/airflow-etl-pipelines](https://github.com/nisar-shaikh/airflow-etl-pipelines) *(placeholder — link your repo)*
 
 ---
 
